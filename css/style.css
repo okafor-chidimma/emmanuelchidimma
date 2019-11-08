@@ -1,0 +1,9 @@
+.text-center{
+  text-align: center;
+}
+
+#image{
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
